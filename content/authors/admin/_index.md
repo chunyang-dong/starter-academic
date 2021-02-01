@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate
-avatar_filename: chunyang-e-dong-profile-pic.jpg
+avatar_filename: reduced-size-pp.jpg
 bio: "Tian Lab. Dept. of Biochemistry and Molecular Medicine, School
   of   Medicine, University of California, Davis. "
 interests:
@@ -33,4 +33,4 @@ highlight_name: false
 title: Chunyang (Jason) Dong
 email: ""
 ---
-Chunyang Dong is a Ph.D candidate in \[Dr. Tian's lab](https://lintianlab.org) at University of California, Davis. His research interests include utilizing biochemistry and protein engineering approaches to engineer novel neurotransmitter/neuropeptide sensors for the applications of neuroscience and biochemistry areas.
+Chunyang Dong is a Ph.D candidate in [Dr. Tian's lab](https://lintianlab.org) at University of California, Davis. His research interests include utilizing biochemistry and protein engineering approaches to engineer novel neurotransmitter/neuropeptide sensors for the applications of neuroscience and biochemistry areas.
