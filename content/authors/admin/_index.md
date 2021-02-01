@@ -1,8 +1,8 @@
 ---
 role: Ph.D. Candidate
 avatar_filename: reduced-size-pp.jpg
-bio: "Tian Lab. Dept. of Biochemistry and Molecular Medicine, School
-  of   Medicine, University of California, Davis. "
+bio: "Tian Lab. Dept. of Biochemistry and Molecular Medicine, School of
+  Medicine, University of California, Davis. "
 interests:
   - Protein Engineering
   - Fiber Photometry
