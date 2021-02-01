@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Biochemistry, Molecular, Cellular, and Developmental Biology
       institution: University of California, Davis
-      year: 2022
+      year: 2022 [expected]
     - course: BSc in Biochemistry and Molecular Biology
       institution: University of California, Davis
       year: 2017
