@@ -25,7 +25,7 @@ abstract: Calcium imaging and channelrhodopsin-assisted electrophysiological
   to permit direct functional analysis of how the spatiotemporal coding of
   chemical input signaling mediates the plasticity and function of brain
   circuits.
-url_pdf: "starter-academic/content/slides/2019BrainPoster-J_FINAL.pdf"
+url_pdf: ""
 date: 2020-01-25T16:00:00.000Z
 date_end: 2020-01-31T04:00:00.000Z
 all_day: true
