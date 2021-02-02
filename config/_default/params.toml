@@ -88,30 +88,30 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
+email = "dcydong@ucdavis.edu"
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1275 Med Science Dr", city = "Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
+address = {street = "Tupper Hall, Rm 4435. 1275 Med Science Dr", city = "Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "38.5339945297705", longitude = "-121.76485399972819"} 
 
 # Directions for visitors to locate you.
-directions = "Tupper Hall, Rm 4435"
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
+#office_hours = [""]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = []
+#contact_links = []
 
 ############################
 ## Social
