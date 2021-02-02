@@ -49,7 +49,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: Nature Methods
-featured: true
+featured: false
 date: 2020-07-09T07:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
