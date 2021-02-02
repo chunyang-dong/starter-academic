@@ -41,7 +41,7 @@ publication_types:
   - "2"
 image:
   caption: ""
-  focal_point: RIGHT
+  focal_point: TOP
   preview_only: false
   filename: featured.jpg
 summary: ""
@@ -58,3 +58,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41592-020-0936-3
 ---
+jjjjj,jjjjjj
