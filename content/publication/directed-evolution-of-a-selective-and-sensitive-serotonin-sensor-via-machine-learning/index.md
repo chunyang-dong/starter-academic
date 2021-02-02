@@ -62,7 +62,7 @@ categories:
   - 5-HT
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 date: 2020-12-23T08:00:58.027Z
 ---
