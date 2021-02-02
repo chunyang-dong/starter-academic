@@ -1,19 +1,7 @@
 ---
 title: An expanded palette of dopamine sensors for multiplex imaging in vivo
 authors:
-  - Tommaso Patriarchi
-  - Ali Mohebi
-  - Junqing Sun
-  - Aaron Marley
-  - Ruqiang Liang
-  - Chunyang Dong
-  - Kyle Puhger
-  - Grace Or Mizuno
-  - Carolyn M. Davis
-  - Brian Wiltgen
-  - Mark von Zastrow
-  - Joshua D. Berke
-  - and Lin Tian
+  - Tommaso Patriarchi, Ali Mohebi, Junqing Sun, Aaron Marley, Ruqiang Liang, **Chunyang Dong**, Kyle Puhger, Grace Or Mizuno, Carolyn M. Davis, Brian Wiltgen, Mark von Zastrow, Joshua D. Berke, and Lin Tian
 author_notes: []
 publication_short: Nat Methods
 abstract: Genetically encoded dopamine sensors based on green fluorescent
