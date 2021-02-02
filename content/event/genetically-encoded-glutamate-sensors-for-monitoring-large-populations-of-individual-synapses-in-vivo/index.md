@@ -37,7 +37,7 @@ draft: false
 featured: false
 authors:
   - Grace O. Mizuno
-  - **Chunyang Dong**
+  - Chunyang Dong
   - Jennifer N. Jahncke
   - Ryan Natan
   - Stelios Papadopoulos
