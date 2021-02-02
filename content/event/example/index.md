@@ -33,7 +33,6 @@ all_day: true
 event: Winter Conference on Brain Research
 event_url: https://winterbrain.org
 publishDate: 2021-02-02T00:37:22.959Z
-slides: example
 url_pdf: ""
 featured: false
 authors:
