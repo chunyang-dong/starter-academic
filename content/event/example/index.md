@@ -30,17 +30,11 @@ location: Big Sky, Montana, U.S.A
 date: 2020-01-25T16:00:00.000Z
 date_end: 2020-01-31T04:00:00.000Z
 all_day: true
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 event: Winter Conference on Brain Research
 event_url: https://winterbrain.org
 publishDate: 2021-02-02T00:37:22.959Z
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
 featured: false
 authors:
   - David Root (Chair)
@@ -50,12 +44,6 @@ authors:
   - Michael Tadross (Presenter)
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 tags: []
 categories:
   - Presentations
