@@ -38,6 +38,17 @@ event_url: https://www.braininitiative.org
 publishDate: 2021-02-02T04:07:05.209Z
 draft: false
 featured: false
+authors:
+  - Grace O. Mizuno
+  - Chunyang Dong
+  - Jennifer N. Jahncke
+  - Ryan Natan
+  - Stelios Papadopoulos
+  - David Jaffe
+  - Jason T. Lambert
+  - Na Ji
+  - Karen Zito
+  - and Lin Tian
 image:
   filename: featured.jpg
   focal_point: Smart
