@@ -1,73 +1,70 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+title: Advances in Cell-Type Specific Detection and Manipulation of Neurotransmitters
+abstract: Calcium imaging and channelrhodopsin-assisted electrophysiological
+  methods have greatly advanced understanding of the neuronal activity patterns
+  of genetically-defined neurons during motivated behavior. However, the
+  cell-type specific neurochemical mechanisms that underlie neuronal activity
+  patterns during motivated behavior are unclear. Recently, several
+  neurotransmitter-specific sensors have been engineered with cell-type specific
+  precision. In addition, the recently-engineered DART technology allows for
+  cell-type specific pharmacological manipulation. This panel will present the
+  latest neurotechnology to detect and manipulate specific neurotransmitters as
+  well as present new research on their use during motivated behaviors. Jason
+  Dong, a graduate student in Dr. Lin Tian’ s lab will describe the engineering
+  and use of serotonin sensors during motivated behavior and to enable real-time
+  pharmacology for psychedelic discovery. Dr. Jonathan Marvin, Senior Scientist
+  at Janelia Farms, will discuss the protein engineering and development of
+  sensors for glutamate, GABA, ATP, and acetylcholine. Dillon McGovern, graduate
+  student in the Root lab, will present his research recording glutamate and
+  GABA binding on ventral tegmental area glutamate neurons that identifies novel
+  neurochemical mechanisms underlying how these specific neurons signal reward,
+  aversion, and learned predictors of these outcomes. Finally, Dr. Michael
+  Tadross will discuss the engineering and use of DART in multiple cell-type
+  specific populations to regulate behavior under motivated and pathological
+  conditions. Together, this session will demonstrate the utility of a
+  fast-growing toolbox of sensors for chemical transmission that is well poised
+  to permit direct functional analysis of how the spatiotemporal coding of
+  chemical input signaling mediates the plasticity and function of brain
+  circuits.
+location: Big Sky, Montana, U.S.A
+date: 2020-01-25T16:00:00.000Z
+date_end: 2020-01-31T04:00:00.000Z
+all_day: true
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+event: Winter Conference on Brain Research
+event_url: https://winterbrain.org
+publishDate: 2021-02-02T00:37:22.959Z
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+featured: false
+authors:
+  - David Root (Chair)
+  - Chunyang (Jason) Dong (Presenter)
+  - Jonathan Marvin (Presenter)
+  - Dillon McGovern (Presenter)
+  - Michael Tadross (Presenter)
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+categories:
+  - Presentations
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  caption: ""
+  focal_point: TOPRIGHT
+  filename: featured.jpg
+  alt_text: "Left to right: Dillon McGovern, Michael Tadross, David Root, Jonathan
+    Marvin, Chunyang (Jason) Dong"
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
