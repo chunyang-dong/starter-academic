@@ -37,7 +37,7 @@ all_day: true
 event: 5th BRAIN Initiative Investigators Meeting
 event_url: https://www.braininitiative.org/events/pimeeting/
 publishDate: 2021-02-02T01:40:56.068Z
-slides: 2019BrainPoster-J FINAL.pdf
+slides: 2019BrainPoster-J_FINAL.pdf
 draft: false
 featured: false
 authors:
