@@ -50,5 +50,6 @@ experience:
     location: California
     date_start: '2013-09-23'
     date_end: '2017-06-28'
-    description: Major: Biochemistry and Molecular Biology
+    description: |2-
+      Major: Biochemistry and Molecular Biology
 ---
