@@ -1,5 +1,5 @@
 ---
-title: Conference Presentations
+title: Invited Talks
 cms_exclude: true
 
 # View.
