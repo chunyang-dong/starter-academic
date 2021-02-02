@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: dcydong@ucdavis.edu
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JasonCDong1
