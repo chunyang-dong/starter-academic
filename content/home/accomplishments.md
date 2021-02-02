@@ -26,8 +26,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2017"
-  description: "Outstanding Academic Achievement in the Presentation of Scholarly Research in 28th
-  Annual Undergraduate Research, Scholarship & Creative Abilities Conference"
+  description: "Outstanding Academic Achievement in the Presentation of Scholarly Research in 28th Annual Undergraduate Research, Scholarship & Creative Abilities          Conference"
   organization: University of California, Davis - Undergraduate Research Center 
   organization_url: https://urc.ucdavis.edu/
   title: A Photoconvertible Genetically Encoded Glutamate Indicator for Neuronal Imaging
