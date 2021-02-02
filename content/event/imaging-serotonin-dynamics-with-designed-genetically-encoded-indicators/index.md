@@ -26,7 +26,7 @@ publishDate: 2021-02-02T03:50:35.156Z
 draft: false
 featured: false
 authors:
-  - Dong CE
+  - **Dong C**
   - Unger EK
   - Altermatt M
   - Hon OJ
@@ -47,7 +47,7 @@ authors:
   - Yarov-Yarovoy V
   - Gradinaru V
   - Looger LL
-  - Tian L.
+  - Tian L
 image:
   filename: featured.jpg
   focal_point: Smart
