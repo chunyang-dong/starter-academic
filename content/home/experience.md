@@ -28,7 +28,10 @@ experience:
     location: California
     date_start: '2018-09-23'
     date_end: '2020-05-19'
-    description: Program: Biochemistry, Molecular, Cellular and Developmental Biology. Thesis advisor: Lin Tian, Ph.D. Potential dissertation title: Development of high affinity serotonin sensor for in vivo imaging and pharmacological applications.
+    description: |2-
+      Program: Biochemistry, Molecular, Cellular and Developmental Biology. 
+      Thesis advisor: Lin Tian, Ph.D. 
+      Potential dissertation title: Development of high affinity serotonin sensor for in vivo imaging and pharmacological applications.
         
   - title: Junior Specialist
     company: University of California, Davis - Tian Lab
@@ -36,7 +39,10 @@ experience:
     location: California
     date_start: '2017-09-01'
     date_end: '2018-09-01'
-    description: Advisor: Lin Tian, Ph.D. Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor. Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
+    description: |2-
+      Advisor: Lin Tian, Ph.D. 
+      Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor. 
+      Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
     
   - title: BSc awarded
     company: University of California, Davis
