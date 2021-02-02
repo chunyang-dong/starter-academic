@@ -26,7 +26,7 @@ experience:
     company: University of California, Davis
     company_url: ''
     location: California
-    date_start: 'Sep. 2018'
+    date_start: 'Sep 2018'
     date_end: 'Present'
     description: |2-
         Program: Biochemistry, Molecular, Cellular and Developmental Biology.
@@ -38,15 +38,15 @@ experience:
     company: University of California, Davis - Tian Lab
     company_url: ''
     location: California
-    date_start: 'Sep. 2017'
-    date_end: 'Sep. 2018'
+    date_start: 'Sep 2017'
+    date_end: 'Sep 2018'
     description: Advisor: Lin Tian, Ph.D. Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor. Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
     
   - title: BSc awarded
     company: University of California, Davis
     company_url: ''
     location: California
-    date_start: 'Sep. 2013'
-    date_end: 'Sep. 2017'
+    date_start: 'Sep 2013'
+    date_end: 'Sep 2017'
     description: Major: Biochemistry and Molecular Biology
 ---
