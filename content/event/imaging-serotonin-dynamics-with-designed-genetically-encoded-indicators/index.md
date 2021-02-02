@@ -33,6 +33,7 @@ abstract: |-
 location: Washington, DC
 date: 2019-04-11T15:00:00.000Z
 date_end: 2019-04-14T03:00:00.000Z
+url_pdf: "https://github.com/chunyang-dong/starter-academic/blob/master/content/slides/2019BrainPoster-J_FINAL.pdf”
 all_day: true
 event: 5th BRAIN Initiative Investigators Meeting
 event_url: https://www.braininitiative.org/events/pimeeting/
