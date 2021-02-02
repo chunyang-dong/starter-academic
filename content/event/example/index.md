@@ -49,7 +49,7 @@ categories:
 projects: []
 image:
   caption: "Left to right: Dillon McGovern, Michael Tadross, David Root, Jonathan
-    Marvin, Chunyang (Jason) Dong"
+    Marvin, **Chunyang Dong**"
   focal_point: TOPRIGHT
   filename: featured.jpg
   alt_text: ""
