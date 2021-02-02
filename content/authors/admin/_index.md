@@ -18,8 +18,8 @@ social:
     icon_pack: fas
     link: https://orcid.org/0000-0002-4820-4454
 organizations:
-  - name: University of California, Davis
-    url: https://www.ucdavis.edu
+  - name: University of California, Davis, School of Medicine
+    url: https://health.ucdavis.edu/biochem/
 education:
   courses:
     - course: PhD in Biochemistry, Molecular, Cellular, and Developmental Biology
