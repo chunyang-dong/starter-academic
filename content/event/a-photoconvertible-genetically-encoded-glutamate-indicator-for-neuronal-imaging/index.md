@@ -29,7 +29,7 @@ draft: false
 featured: false
 authors:
   - Stelios Papadopoulos
-  - **Chunyang Dong**
+  - Chunyang Dong
   - Jason Lambert
   - Karen Zito
   - Lin Tian
