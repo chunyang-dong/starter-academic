@@ -58,8 +58,7 @@ abstract: Serotonin plays a central role in cognition and is the target of most
   serotonin detection, respectively.
 draft: false
 featured: true
-categories:
-  - 5-HT
+categories: []
 image:
   filename: featured.jpg
   focal_point: ""
