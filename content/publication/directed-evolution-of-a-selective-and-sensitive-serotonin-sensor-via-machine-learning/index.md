@@ -9,7 +9,7 @@ authors:
   - Michael Altermatt
   - Ruqiang Liang
   - Aya Matsui
-  - Chunyang Dong
+  - **Chunyang Dong**
   - Olivia J. Hon
   - Zi Yao
   - Junqing Sun
