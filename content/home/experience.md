@@ -40,9 +40,7 @@ experience:
     location: California
     date_start: 'Sep. 2017'
     date_end: 'Sep. 2018'
-    description: Advisor: Lin Tian, Ph.D.
-    Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor 
-    Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
+    description: Advisor: Lin Tian, Ph.D. Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor. Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
     
   - title: BSc awarded
     company: University of California, Davis
