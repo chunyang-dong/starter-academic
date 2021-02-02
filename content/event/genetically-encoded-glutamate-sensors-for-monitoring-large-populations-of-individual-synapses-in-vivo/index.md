@@ -26,10 +26,7 @@ abstract: "Recently developed genetically-encoded sensors have allowed for
   associated virus in which we have tested the expression, sensitivity, kinetics
   and ultimately their ability to monitor synaptic activity in rodent brain
   slices and in vivo."
-location: |-
-  Bethesda North Marriott Hotel & Conference Center
-  5701 Marinelli Road
-  Rockville, MD 20852
+location: Bethesda, MD. U.S.A
 date: 2018-04-09T15:00:00.000Z
 date_end: 2018-04-12T03:00:00.000Z
 all_day: true
