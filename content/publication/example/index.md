@@ -33,8 +33,7 @@ abstract: Genetically encoded dopamine sensors based on green fluorescent
   components in vivo, RdLight1 opens avenues or understanding many aspects of
   dopamine biology.
 tags: []
-projects:
-  - Dopamine
+projects: []
 slides: ""
 url_pdf: ""
 publication_types:
