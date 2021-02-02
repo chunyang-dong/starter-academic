@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: California
     date_start: '2018-09-23'
-    date_end: ''
+    date_end: '2020-05-19'
     description: Program: Biochemistry, Molecular, Cellular and Developmental Biology. Thesis advisor: Lin Tian, Ph.D. Potential dissertation title: Development of high affinity serotonin sensor for in vivo imaging and pharmacological applications.
         
   - title: Junior Specialist
