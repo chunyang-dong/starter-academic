@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Candidate
+    company: University of California, Davis
     company_url: ''
     location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: 'Sep. 2018'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        Program: Biochemistry, Molecular, Cellular and Developmental Biology.
+        Thesis advisor: Lin Tian, Ph.D.
+        Potential dissertation title: Development of high affinity serotonin sensor for in vivo imaging
+        and pharmacological applications.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Junior Specialist
+    company: University of California, Davis - Tian Lab
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: 'Sep. 2017'
+    date_end: 'Sep. 2018'
+    description: Advisor: Lin Tian, Ph.D.
+    Project 1: Engineering green to red photo-convertible genetically encoded glutamate sensor 
+    Project 2: Directed evolution of a selective and sensitive serotonin biosensor via machine learning
+    
+  - title: BSc awarded
+    company: University of California, Davis
+    company_url: ''
+    location: California
+    date_start: 'Sep. 2013'
+    date_end: 'Sep. 2017'
+    description: Major: Biochemistry and Molecular Biology
 ---
