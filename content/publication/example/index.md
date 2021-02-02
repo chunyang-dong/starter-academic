@@ -6,7 +6,7 @@ authors:
   - Junqing Sun
   - Aaron Marley
   - Ruqiang Liang
-  - Chunyang Dong
+  - **Chunyang Dong**
   - Kyle Puhger
   - Grace Or Mizuno
   - Carolyn M. Davis
