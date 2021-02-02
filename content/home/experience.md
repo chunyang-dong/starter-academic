@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: California
     date_start: '2018-09-23'
-    date_end: '2020-05-19'
+    date_end: ''
     description: |2-
       * Program: Biochemistry, Molecular, Cellular and Developmental Biology. 
       * Thesis advisor: Lin Tian, Ph.D. 
@@ -51,5 +51,5 @@ experience:
     date_start: '2013-09-23'
     date_end: '2017-06-28'
     description: |2-
-      Major: Biochemistry and Molecular Biology
+      * Major: Biochemistry and Molecular Biology
 ---
