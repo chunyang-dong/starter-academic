@@ -57,7 +57,7 @@ abstract: Serotonin plays a central role in cognition and is the target of most
   utility for the development of other sensors and in vitro and in vivo
   serotonin detection, respectively.
 draft: false
-featured: true
+featured: false
 categories: []
 image:
   filename: featured.jpg
