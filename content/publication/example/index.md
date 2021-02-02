@@ -34,25 +34,26 @@ abstract: Genetically encoded dopamine sensors based on green fluorescent
   dopamine biology.
 tags: []
 projects:
-  - Red-dLight
+  - Dopamine
 slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 image:
   caption: ""
-  focal_point: ""
+  focal_point: RIGHT
   preview_only: false
+  filename: featured.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 publication: Nature Methods
-featured: false
+featured: true
 date: 2020-07-09T07:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41592-020-0936-3
